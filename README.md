@@ -1,1 +1,2 @@
 # freefire
+#open index.html
